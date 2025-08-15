@@ -1,0 +1,3 @@
+@echo off
+echo Starting Market Navigator Data Manager...
+powershell -ExecutionPolicy Bypass -File "%~dp0watch-and-reload.ps1"
